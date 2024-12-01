@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DZ13MyTrainingSession</string>
+    <string name="infoStr">Информация о приложении</string>
+    <string name="exit">Выход из приложения</string>
+    <string name="slogan">Быстрее Выше Сильнее</string>
+    <string name="button_start_exercises">Переход к тренировке</string>
+    <string name="hint_exercises">Набор упражнений для комплексной тренировки тела</string>
+    <string name="edit_text_exercises">Введите название упражнения</string>
+    <string name="name_exercise">Название упражнения</string>
+    <string name="start_training">Начать упражнение</string>
+    <string name="beginning_training">Начало тренировки</string>
+    <string name="description_exercise">Описание</string>
+    <string name="timer">Время тренировки</string>
+    <string name="next_button">Следующее упражнение</string>
+    <string name="hint_exercises_spis">Приседание, Пресс, Планка , Ножницы, Отжимание</string>
+    <string name="hint_exercises_spis2">"Бег, Штанга, Эспандер, Мах, Гантели "</string>
+</resources>
